@@ -1,0 +1,17 @@
+---
+name: VipKitDP
+author: JUZEXMOD\DevolperPHP
+main: VipKitDP\vipkitdp
+version: 1.0
+api: [2.0.0]
+
+commands
+  kitvip:
+    description: Kitvip Command
+    use: "/kitvip"
+    permission: vipkit.kitvip
+    
+permission:
+  vipkit.kitvip:
+    description: "Kitvip Command"
+    default: op
