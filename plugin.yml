@@ -1,7 +1,7 @@
 ---
-name: VipKitDP
+name: VipKit
 author: JUZEXMOD\DevolperPHP
-main: VipKitDP\vipkitdp
+main: VipKit\vipkit
 version: 1.0
 api: [2.0.0]
 
